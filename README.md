@@ -12,7 +12,7 @@ I am a professional **transitioning into Tech** from a background in Education a
 * 🎓 **Currently studying:** 2nd Year DAM & Master in Cybersecurity at ThePower Education.
 * 🔭 **Current Focus:** Developing secure Java applications and learning Ethical Hacking with Kali Linux.
 
-<br>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=600&lines=+🚀+Building+my+future,+one+commit+at+a+time.)](https://git.io/typing-svg)
+<br>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=600&lines=+🚀+Building+my+future,+one+commit+at+a+time.)](https://git.io/typing-svg)
 
 ---
 
