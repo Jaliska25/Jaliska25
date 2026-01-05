@@ -5,7 +5,7 @@
 ---
 
 ### 🌱 About Me
-I am a **Cross-platform Application Development (DAM)** student specializing in **Cybersecurity**.
+I am a **Multi-platform Application Development (DAM)** student specializing in **Cybersecurity**.
 
 I am a professional **transitioning into Tech** from a background in Education and Retail. My previous experience as a Teacher and in Customer Service has equipped me with unique soft skills that I now apply to code: **empathy, clear communication, and practical problem-solving.**
 
